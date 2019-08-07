@@ -19,6 +19,6 @@ test('product of 0 * 7 to equal 0', () => {
   expect(product(0, 7)).toBe(0);
 });
 
-test('product of 0 * 0 to equal 0' => {
+test('product of 0 * 0 to equal 0', () => {
   expect(product(0, 0)).toBe(0);
 });
