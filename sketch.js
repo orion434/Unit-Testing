@@ -7,6 +7,6 @@ function product(a,b) {
 }
 
 module.exports = {
-	sum: sum,
 	product: product,
+	sum: sum,
 }
